@@ -41,6 +41,11 @@ Certifique-se de ter o Python instalado na sua máquina. Você pode baixá-lo em
 
 ## Algumas imagens do progama:
 
+![Captura de Tela](imagens/inicial.png)
+![Captura de Tela](imagens/inserir.png)
+![Captura de Tela](imagens/nicknames.png)
+
+
 ## Autor
 
 Milton Salustiano
