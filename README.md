@@ -39,7 +39,7 @@ Certifique-se de ter o Python instalado na sua máquina. Você pode baixá-lo em
 2. Clique no botão "Gerar Nicknames".
 3. Veja as sugestões de nicknames geradas.
 
-## Algumas imagens do progama:
+## Algumas imagens do programa:
 
 ![Captura de Tela](imagens/inicial.png)
 ![Captura de Tela](imagens/inserir.png)
